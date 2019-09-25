@@ -2,9 +2,9 @@
 
 URL FOR DATASET: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 File descriptions
+*train_V2.csv - the training set
+*test_V2.csv - the test set
 
-    train_V2.csv - the training set
-    test_V2.csv - the test set
 
 PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game developed and published by PUBG Corporation
 a subsidiary of South Korean video game company Bluehole.
