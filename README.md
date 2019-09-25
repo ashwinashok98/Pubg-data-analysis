@@ -16,4 +16,4 @@ We are provided with a large number of anonymized PUBG game stats, formatted so 
 The data comes from matches of all types: solos, duos, squads, and custom; there is no guarantee of there being 100 players per match, nor at most 4 player per group.
 We created a model which predicts players' finishing placement based on their final stats, on a scale from 1 (first place) to 0 (last place).
 From the dataset we check the correlation of the features with the target data i.e WinPlacePerc and choose the features that has a high positive correlation
-and choosing random forest regression we train the model.Resulted accuracy - 78%.
+and applying random forest regression we train the model.Resulted accuracy - 78%.
